@@ -230,7 +230,7 @@ html {
 }
 .container {
   width: 1600px;
-  margin: auto;
+  margin: 198px 0px 8px 0px;
 }
 .subcontainer {
   width: 85%;
@@ -256,6 +256,7 @@ html {
   transition: 0.7s ease-in-out;
   border: none;
   background: white;
+  border-radius: 5px;
 }
 
 .Rectangle-185 {
@@ -314,14 +315,14 @@ html {
   height: 15px;
 }
 .date {
-  margin: 50px 20px 4px 5px;
+  margin: 0px 20px 4px 4px;
   opacity: 0.5;
   font-family: Poppins;
   font-size: 12px;
   font-weight: 500;
   font-stretch: normal;
   font-style: normal;
-  line-height: normal;
+  line-height: -4px;
   letter-spacing: 0.6px;
   text-align: left;
   color: #000;
@@ -342,7 +343,7 @@ html {
   text-align: left;
   color: #000;
   margin-top: 4px;
-  margin-left: 14px;
+  margin-left: 6px;
 }
 #img {
   width: 350px;
@@ -1111,7 +1112,7 @@ h3 {
     font-size: 12px;
   }
   .date {
-    font-size: 10px;
+    font-size: 12px;
   }
   .upcoming {
     text-align: center;
@@ -1195,10 +1196,10 @@ h3 {
     margin-left: -80px;
   }
   .event {
-    font-size: 9.5px;
+    font-size: 12px;
   }
   .date {
-    font-size: 8px;
+    font-size: 12px;
   }
   .Rectangle-185 {
     height: 350px;
@@ -1244,11 +1245,11 @@ h3 {
     padding: 15px 19px 15px 15px;
   }
   .event {
-    font-size: 9.4px;
+    font-size: 10px;
     margin-left: 10px;
   }
   .date {
-    font-size: 8px;
+    font-size: 10px;
   }
   #controls {
     margin: auto;
