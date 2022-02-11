@@ -1,0 +1,196 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+.Event {
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.6px;
+  text-align: center;
+  color: #000;
+}
+.evt-names {
+  font-family: Poppins;
+  font-size: 40px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: 0.6px;
+  text-align: center;
+  color: #000;
+}
+.container-1 {
+  margin-top: 30%;
+}
+.abt-event {
+  width: 25%;
+  height: 114px;
+  margin: 50px 84px 43px 180px;
+  font-family: Poppins;
+  font-size: 40px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.6px;
+  text-align: left;
+  color: #000;
+  word-wrap: break-word;
+}
+
+.detail {
+  margin: -12% 0 2% 45%;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2.5;
+  letter-spacing: 0.6px;
+  text-align: left;
+  color: #000;
+  width: 42%;
+  word-wrap: break-word;
+}
+.Green-Container-1 {
+  width: 600px;
+  height: 509px;
+  margin: auto;
+  padding: 108px 140px 125px 74px;
+  opacity: 0.05;
+  background-color: #74d30b;
+  border-radius: 3px 5px;
+}
+.Speakers-1 {
+  width: 194px;
+  height: 54px;
+  margin: 29px 90px 82px 0;
+  font-family: Poppins;
+  font-size: 40px;
+  font-weight: bold;
+
+  letter-spacing: 0.6px;
+  text-align: left;
+  color: black;
+}
+.core-cont {
+  flex-direction: row;
+  background-color: rgba(116, 211, 11, 0.05);
+  width: 90%;
+  margin: auto;
+  border-radius: 60px;
+}
+.core-text {
+  margin-top: 147px;
+  margin-left: 5%;
+  font-size: 3vw;
+  font-weight: 500;
+  letter-spacing: 0.6px;
+  text-align: left;
+  color: #000000;
+}
+.img {
+  border-radius: 10px;
+  width: 170px;
+  height: 170px;
+  margin-top: -35px;
+}
+.core-cont-1 {
+  flex-direction: row;
+  background-color: rgba(116, 211, 11, 0.05);
+  width: 70%;
+  margin: auto;
+  border-radius: 60px;
+  margin-top: 10%;
+}
+.core-text {
+  margin-top: 147px;
+  margin-left: 20%;
+  font-size: 3vw;
+  font-weight: 500;
+  letter-spacing: 0.6px;
+  text-align: left;
+  color: #000000;
+}
+.img {
+  border-radius: 10px;
+  width: 170px;
+  height: 170px;
+}
+@media all and (max-width: 800px) {
+  .core-cont-1 {
+    flex-direction: column;
+    align-items: center;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .core-text {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    margin-bottom: 0;
+    font-size: 30px;
+  }
+}
+@media all and (min-width: 600px) and (max-width: 900px) {
+  .abt-event {
+    width: 55%;
+    margin: auto;
+    text-align: center;
+  }
+  .detail {
+    margin: auto;
+    width: 50%;
+    margin-top: -5%;
+    text-align: center;
+  }
+}
+@media all and (min-width: 430px) and (max-width: 599px) {
+  .abt-event {
+    width: 75%;
+    margin: auto;
+    text-align: center;
+  }
+  .detail {
+    margin: auto;
+    width: 70%;
+    margin-top: -5%;
+    text-align: center;
+  }
+}
+@media all and (min-width: 300px) and (max-width: 429px) {
+  .abt-event {
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    font-size: 34px;
+  }
+  .detail {
+    margin: auto;
+    width: 90%;
+    margin-top: -5%;
+    text-align: center;
+  }
+  .evt-names {
+    font-size: 30px;
+  }
+}
+@media all and (max-width: 299px) {
+  .abt-event {
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    font-size: 30px;
+  }
+  .detail {
+    margin: auto;
+    width: 96%;
+    margin-top: -5%;
+    text-align: center;
+  }
+  .evt-names {
+    font-size: 28px;
+  }
+}

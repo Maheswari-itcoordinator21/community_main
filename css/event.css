@@ -1,0 +1,21 @@
+.top {
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+.abt {
+  font-size: 2.4rem;
+  margin-left: 2.5rem;
+  font-weight: bolder;
+  margin-top: 5rem;
+}
+
+.exp {
+  float: right;
+  max-width: 38rem;
+  margin-right: 2.5rem;
+  margin-top: -80px;
+  font-size: 20px;
+  font-weight: 800;
+}

@@ -1,0 +1,40 @@
+[
+{
+"id":1,
+"image":"img/events/your next step.jpg",
+"eventName":"YOUR NEXT STEP",
+"speaker":"Harshavardhan Maran",
+"date":"October 8,2021",
+"speakerImg":"img/team/Harsha.jpg",
+"description":" the event is to help out with the career opportunities around Amet-minim-mollit-non-deserunt-ullamco-est-sit-aliqua-dolor-do-amet-sint-do-amet-sint-do-amet-sintdo"
+
+},
+{
+"id":2,
+"image":"img/events/Data Science.jpeg",
+"eventName":"DATA SCIENCE ",
+"speaker":"Sivakumar N",
+"date":"December 12,2021",
+"speakerImg":"img/team/Sivakumar.jpg",
+"description":"llamco-est-sit-aliqua-dolor-do-amet-sint-do-amet-sint-do-amet-sintdoygdhbvdystfgdvbsh"
+},
+{
+"id":3,
+"image":"img/events/Github.jpg",
+"eventName":"GITHUB",
+"speaker":"Jaya Roshini",
+"date":"January 22,2022",
+"speakerImg":"img/team/jayaroshini.jpg",
+"description":"nt-ullamco-est-sit-aliqua-dolor-do-amet-sint-do-amet-sint-do-amet-sintdojjhguyhjbdusygdhbvdystfgdvbsh"
+},
+{
+    "id":4,
+    "image":"img/events/Github.jpg",
+    "eventName":"FRONTED DEVELOPMENT",
+    "speaker":"Yogeshwaran",
+    "date":"February 05,2022",
+    "speakerImg":"img/team/yogeshwaran.jpg",
+    "description":"ullamco-est-sit-aliqua-dolor-do-amet-sint-do-amet-sint-do-amet-sintdojhguyhjbdusygdhbvdystfgdvbsh"
+    }
+   
+]
