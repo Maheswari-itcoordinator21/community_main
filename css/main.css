@@ -388,8 +388,8 @@ footer {
   color: white;
 }
 
-.w-75 {
-  width: 70% !important;
+.w-100 {
+  width: 95% !important;
 }
 .addrs p,
 .orgn p,
@@ -1260,7 +1260,7 @@ h3 {
   }
   #slider {
     width: 270px;
-    height: 600px;
+    height: 520px;
     margin-top: 145px;
     margin: auto;
   }
