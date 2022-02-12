@@ -35,10 +35,10 @@ function patchhi(story) {
 
 function navigationpage1() {
     window.location.href =
-        "https://relaxed-albattani-e261f4.netlify.app/story_page2.html?id=1";
+        "https://fervent-gates-b63433.netlify.app/story_page2.html?id=1";
 }
 
 function navigationpage2() {
     window.location.href =
-        "https://relaxed-albattani-e261f4.netlify.app/story_page2.html?id=2";
+        "https://fervent-gates-b63433.netlify.app/story_page2.html?id=2";
 }

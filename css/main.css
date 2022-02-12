@@ -229,13 +229,25 @@ html {
   align-items: center;
 }
 .Rectangle-183 {
-  width: 306px;
-  height: 60px;
+  width: 236px;
+  height: 50px;
   flex-grow: 0;
-  margin: 40px 48px 84px 139px;
-  padding: 20px 80px 19px;
+  margin-top: 30px;
+
   border-radius: 10px;
   background-color: #000;
+  color: white;
+}
+.Apply-for-the-event {
+  flex-grow: 0;
+  font-family: Poppins;
+  font-size: 12px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.6px;
+  color: #fff;
 }
 .container {
   width: 1600px;
@@ -1218,6 +1230,19 @@ h3 {
   #controls {
     margin: auto;
   }
+  .Rectangle-183 {
+    width: 206px;
+    height: 40px;
+    flex-grow: 0;
+    margin-top: 30px;
+
+    border-radius: 10px;
+    background-color: #000;
+    color: white;
+  }
+  .Apply-for-the-event {
+    font-size: 12px;
+  }
 }
 @media all and (max-width: 330px) {
   #img {
@@ -1273,5 +1298,18 @@ h3 {
     letter-spacing: 0.6px;
     text-align: center;
     color: #000;
+  }
+  .Rectangle-183 {
+    width: 156px;
+    height: 30px;
+    flex-grow: 0;
+    margin-top: 30px;
+
+    border-radius: 10px;
+    background-color: #000;
+    color: white;
+  }
+  .Apply-for-the-event {
+    font-size: 12px;
   }
 }
