@@ -170,7 +170,7 @@
   .detail {
     margin: auto;
     width: 90%;
-    margin-top: -12%;
+    margin-top: -17.5%;
     text-align: center;
   }
   .evt-names {
@@ -179,7 +179,7 @@
 }
 @media all and (max-width: 299px) {
   .abt-event {
-    width: 90%;
+    width: 98%;
     margin: auto;
     text-align: center;
     font-size: 26px;
@@ -187,7 +187,7 @@
   .detail {
     margin: auto;
     width: 96%;
-    margin-top: -12%;
+    margin-top: -17%;
     text-align: center;
   }
   .evt-names {
