@@ -159,6 +159,9 @@
     margin-top: -9.5%;
     text-align: center;
   }
+  .evt-names {
+    font-size: 30px;
+  }
 }
 @media all and (min-width: 300px) and (max-width: 429px) {
   .abt-event {
@@ -174,7 +177,7 @@
     text-align: center;
   }
   .evt-names {
-    font-size: 30px;
+    font-size: 28px;
   }
 }
 @media all and (max-width: 299px) {
