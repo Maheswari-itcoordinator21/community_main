@@ -310,4 +310,13 @@
     margin-top: 240px;
     font-size: 2vw;
   }
+  .inter {
+      position: relative;
+      width: 270px;
+      height: 250px;
+      overflow: hidden;
+      padding-top: 25%;
+      margin-left: 15vw;
+      border: solid 2px black;
+  }
 }
