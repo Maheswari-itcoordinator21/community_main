@@ -1,0 +1,21 @@
+/* .pic {
+    margin-left: 400px;
+} */
+
+.pic {
+    margin: auto;
+    display: block;
+}
+
+@media screen and (max-width: 800px) {
+    .pic {
+        display: none;
+    }
+    .pic1 {
+        margin-left: 20px;
+    }
+    .pic2 {
+        margin-top: 250px;
+        margin-left: -170px;
+    }
+}
