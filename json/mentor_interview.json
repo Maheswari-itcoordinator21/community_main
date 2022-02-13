@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1",
+     "image": "https://community.spotknack.com/img/team/ahielan.jpg",
+     "name": "Ahielan Ravichandran",
+     "designation": "Front End Developer Ex-zoho,Facilio",
+     "description":"Hii all, Want to become a front-end developer but unsure about the career path ? We got your back. Ahielan Ravichandran from our spotknack mentoring team is going to tell everything from his journey to how you can get started, learn from his experience & mistake.",
+     "link":"https://youtube.com/embed/ahpoWxpSP_o"
+     
+    },
+    {
+        "id": "2",
+     "image": "https://community.spotknack.com/img/team/kribha.jpg",
+     "name": "Blisston Kirubha",
+     "designation": "Software Engineer Zoho",
+     "description":"If the end-user product, design and how it's presented intrigues you, Front-end development is one of the path you need to definitely explore and we make it easier for you. Join our live session By one of our finest expert Blisston Kirubha who mentors front-end aspirants, currently working at Zoho.",
+     "link":"https://youtube.com/embed/MJwL40qTGxE"
+     
+    },
+    {
+        "id": "3",
+     "image": "https://community.spotknack.com/img/team/Balakrishnan.jpg",
+     "name": "Balakrishnan",
+     "designation": "Android App Developer Specturm Global",
+     "description":"",
+     "link":"https://youtube.com/embed/UiH8n0izdDw"
+     
+    },
+    {
+        "id": "4",
+     "image": "https://media-exp1.licdn.com/dms/image/C4E03AQEnrtMIX9nfSg/profile-displayphoto-shrink_400_400/0/1517864932184?e=1649894400&v=beta&t=InkfZyb1HUwzPPt7lZ7dMecNiuKJa52BSZh43Wt03Wg",
+     "name": "Bharath Kumar",
+     "designation": "Developer at Zoho",
+     "description":"If the end-user product, design, friendly access and how it's presented intrigues you, Front-end and Back-end development are the paths you need to definitely explore and we make it easier for you. Bharath Kumar from our spotknack mentoring team is going to tell everything from his journey related to front-end ,back-end and AI/ML fields and also how you can get started, learn from his experience & mistakes .",
+     "link":"https://www.youtube.com/embed/Ib0Ks9WwS_Q"
+     
+    },
+    {
+        "id": "5",
+     "image": "https://community.spotknack.com/img/team/yeswanth.jpg",
+     "name": "Yeswanth Rajakumar",
+     "designation": "Software Developer Vernacular ai",
+     "description":"",
+     "link":"https://youtube.com/embed/C6RHmdcHPlk"
+     
+    },
+    {
+        "id": "6",
+     "image": "https://media-exp1.licdn.com/dms/image/C5603AQHhXq74UTlLpQ/profile-displayphoto-shrink_100_100/0/1627540024279?e=1649894400&v=beta&t=EpUC3sg_zEROu4krXBKhONDdHD6GL2XxfrqDyPHXODI",
+     "name": "Gnana Ganesh",
+     "designation": "Application Developer at ThoughtWorks",
+     "description":"Hii all, On an average a man uses 30 mobile apps per month. To be precise, 3739 apps are added to the Play Store every day! There are no speed breakers on the road to increasing demand for mobile apps. Want to know how they are build ? one of our mentors , Gnana Ganesh is here to share the tips and tricks with you all !!!",
+     "link":"https://youtube.com/embed/HkSQ9yclSQQ"
+     
+    },
+    {
+        "id": "7",
+     "image": "https://community.spotknack.com/img/team/mukesh.jpeg",
+     "name": "Mukesh Manoharan",
+     "designation": "Software Developer Ardhika",
+     "description":"To develop a complete online platform/application, full-stack developer is crucial. Understanding and implementing the usage of both front-end and back-end are the roles.",
+     "link":"https://youtube.com/embed/th71tnDwEQ4"
+     
+    },
+    {
+        "id": "8",
+     "image": "https://community.spotknack.com/img/team/raj%20kumar.jpg",
+     "name": "Rajkumar Jayaprakash",
+     "designation": "Front End Developer Vuram",
+     "description":"Developing and maintaining the user interface. Implementing design on mobile websites. Creating tools that improve site interaction regardless of the browser. Guess what...!? Yeah it's Front-end development, which is an evolving job and will always be in demand. To know more about how to thrive in this field, join our session by RajKumar Jayaprakash",
+     "link":"https://youtube.com/embed/HE3XxiqUjSo"
+     
+    }
+   ]

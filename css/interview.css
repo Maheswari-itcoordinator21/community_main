@@ -1,0 +1,313 @@
+.pic {
+  border-radius: 50%;
+  width: 70%;
+  height: 70%;
+}
+.Rectangle-212 img {
+  display: flex;
+  width: 300px;
+  height: 450px;
+  margin: 17px 55px 215px 118px;
+}
+.rect {
+  display: flex;
+}
+.col-2 {
+  width: 48.1px;
+  height: 21.3px;
+  margin: 17px 5.9px 58.7px 5.1px;
+  transform: rotate(-0.4deg);
+  opacity: 0.6;
+  font-family: PlayfairDisplay-Roman;
+  font-size: 16px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.6px;
+  text-align: left;
+  color: #000;
+}
+
+.ellipse-136 {
+  width: 30px;
+  height: 10px;
+  margin-left: 5.9px;
+  border: solid 2px #c9fd6a;
+}
+.ellipse-133 {
+  width: 30px;
+  height: 10px;
+  margin-left: 8.9px;
+  border: solid 2px #c9fd6a;
+}
+.Line-53 {
+  width: 1px;
+  height: 62px;
+  margin: 36px 0 0 14.8px;
+  transform: rotate(-270.92deg);
+  background-color: #c9fd6a;
+}
+.Line-54 {
+  width: 1px;
+  height: 62px;
+  margin: 18px 114px 0 0;
+  transform: rotate(-270deg);
+  background-color: #c9fd6a;
+}
+.Home {
+  width: 48.1px;
+  height: 21.3px;
+  margin-top: 200px;
+  transform: rotate(-0.4deg);
+  margin-left: 126.1px;
+  font-family: PlayfairDisplay-Roman;
+  font-size: 16px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.6px;
+  text-align: left;
+  color: #000;
+}
+.About {
+  width: 50.1px;
+  height: 21.4px;
+  margin-top: 30px;
+  margin-left: 126.1px;
+  transform: rotate(-0.4deg);
+  font-family: PlayfairDisplay-Roman;
+  font-size: 16px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.6px;
+  text-align: left;
+  color: #000;
+}
+.Contact {
+  width: 63.2px;
+  height: 21.4px;
+  margin-top: 30px;
+  margin-left: 116px;
+  transform: rotate(-0.4deg);
+
+  font-family: PlayfairDisplay-Roman;
+  font-size: 16px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.6px;
+  text-align: left;
+  color: #000;
+}
+
+.My-Story {
+  width: 139.2px;
+  height: 41px;
+  margin: 114px 238.8px 5px 55px;
+  transform: rotate(-0.4deg);
+  font-family: PlayfairDisplay-Roman;
+  font-size: 30px;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.6px;
+  text-align: left;
+  color: #000;
+}
+.Nulla-Lorem-mollit-cupidatat-irure-Laborum-magna-nulla-duis-ullamco-cillum-dolor-Voluptate-exercit {
+  display: block;
+  width: 500px;
+  height: 141px;
+  margin: 5px 48px 15px 55px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.81;
+  letter-spacing: 0.6px;
+  text-align: left;
+  color: #000;
+}
+.Nulla-Lorem-mollit-cupidatat-irure-Laborum-magna-nulla-duis-ullamco-cillum-dolor-Voluptate-exercit {
+  width: 500px;
+  height: 141px;
+  margin: 15px 48px 15px 55px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.81;
+  letter-spacing: 0.6px;
+  text-align: left;
+  color: #000;
+}
+
+/* interview */
+
+.Learn-Our-From-Impactors {
+  font-family: Poppins;
+  font-size: 4vw;
+  font-weight: 600;
+  color: #000;
+  margin-left: 22%;
+}
+
+.member {
+  font-weight: 600;
+}
+
+/* Mentor Interview Videos*/
+.Impactor {
+  font-family: Poppins;
+  font-size: 4vw;
+  font-weight: 600;
+  color: #000;
+  margin-left: 24%;
+}
+.inter {
+  position: relative;
+  width: 50%;
+  height: 40%;
+  overflow: hidden;
+  padding-top: 25%;
+  margin-left: 24vw;
+}
+
+.frame {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+.inter-content {
+  width: 45vw;
+  height: 15vh;
+  margin-top: 2vh;
+  margin-left: 25vw;
+  font-family: Poppins;
+  font-size: 1vw;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.79;
+  letter-spacing: 0.6px;
+  text-align: center;
+  color: #000;
+}
+.whole {
+  padding-top: 2vh;
+  padding-left: 18%;
+  padding-right: 10%;
+}
+.img {
+  transition: transform 0.2s;
+  margin-bottom: 1vh;
+}
+.img:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
+.button {
+  background-color: transparent;
+  color: black;
+  font-size: 1.5vw;
+  margin-left: 23vw;
+}
+
+/* .Talent-Community-Mentee-Story---Home {
+    width: 1440px;
+    height: 1261px;
+    padding: 15px 0 0;
+    background-color: #fff;
+  }
+  .Hi-there-i-am {
+    width: 219px;
+    height: 43px;
+    margin: 59.7px 225px 37px 167px;
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.6px;
+    text-align: left;
+    color: #000;
+  }
+  .Harsha-varthan {
+    width: 222.8px;
+    height: 151.1px;
+    margin: 22.4px 225.2px 5.2px 163px;
+    transform: rotate(-0.4deg);
+    font-family: PlayfairDisplay-Roman;
+    font-size: 60px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.6px;
+    text-align: left;
+    color: #000;
+  }
+  .Front-End-Developer {
+    width: 319px;
+    height: 43px;
+    margin: 5.2px 125px 15px 167px;
+    opacity: 0.7;
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.6px;
+    text-align: left;
+    color: #000;
+  }
+  .linkedin-6 {
+    width: 30px;
+    height: 30px;
+    margin: 15px 414px 178px 167px;
+  } */
+@media (max-width: 700px) {
+  .whole {
+    padding-top: 2vh;
+    padding-left: 8%;
+    padding-right: 0;
+  }
+}
+@media (max-width: 1300px) {
+  .inter-content {
+    font-size: 1.2vw;
+  }
+}
+@media (max-width: 1000px) {
+  .inter-content {
+    font-size: 1.5vw;
+  }
+  .button {
+    margin-top: 100px;
+  }
+}
+@media (max-width: 600px) {
+  .inter-content {
+    margin-top: 6vh;
+    font-size: 2.5vw;
+  }
+  .button {
+    margin-top: 240px;
+    font-size: 2vw;
+  }
+}
