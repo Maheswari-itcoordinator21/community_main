@@ -1,18 +1,17 @@
 [{
-    "id": 1,
-    "image": "img/leadership/lakshana.jpg",
-    "name": "Ram Kishore",
-    "design": "Data Scientist",
-    "hi": "Hi there , i am",
-    "linked": "https://www.linkedin.com/in/ram-kishore-005727219"
-},
-{
-    "id": 2,
-    "image": "img/leadership/tharun.jpeg",
-    "name": "Maithreyan",
-    "design": "Android Developer",
-    "hi": "Hi there , i am",
-    "linked": "https://www.linkedin.com/in/maithreyan-m-768b20219"
-}
-
+        "id": 1,
+        "image": "img/members/ramkishore.jfif",
+        "name": "Ram Kishore",
+        "design": "Frontend Developer",
+        "hi": "Hi there , i am",
+        "linked": "https://www.linkedin.com/in/ram-kishore-005727219"
+    },
+    {
+        "id": 2,
+        "image": "img/members/maithreyan.jfif",
+        "name": "Maithreyan",
+        "design": "Frontend Developer",
+        "hi": "Hi there , i am",
+        "linked": "https://www.linkedin.com/in/maithreyan-m-768b20219"
+    }
 ]
