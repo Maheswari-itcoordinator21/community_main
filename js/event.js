@@ -8,22 +8,22 @@
    
   
     function navigationpage1() {
-        window.location.href="https://fervent-gates-b63433.netlify.app/eventdescription.html?id=1";
+        window.location.href="https://focused-mayer-701538.netlify.app/eventdescription.html?id=1";
         
     }
     function navigationpage2() {
-        window.location.href="https://fervent-gates-b63433.netlify.app/eventdescription.html?id=2";
+        window.location.href="https://focused-mayer-701538.netlify.app/eventdescription.html?id=2";
         
     }
     function navigationpage3() {
-        window.location.href="https://fervent-gates-b63433.netlify.app/eventdescription.html?id=3";
+        window.location.href="https://focused-mayer-701538.netlify.app/eventdescription.html?id=3";
         
     }
     function navigationpage4() {
-        window.location.href="https://fervent-gates-b63433.netlify.app/eventdescription.html?id=4";
+        window.location.href="https://focused-mayer-701538.netlify.app/eventdescription.html?id=4";
         
     }
     function navigationpage5() {
-        window.location.href="https://fervent-gates-b63433.netlify.app/eventdescription.html?id=5";
+        window.location.href="https://focused-mayer-701538.netlify.app/eventdescription.html?id=5";
         
     }

@@ -9,10 +9,17 @@ const urlParams = new URLSearchParams(window.location.search);
    
     .then((story)=>{
         console.log(story);
+<<<<<<< HEAD
        story .forEach ((desc)=> {
            if (desc.id == id){
                console.log(desc);
                document.getElementById("mentee_desc1").innerHTML+= desc.desc;
+=======
+       story .forEach ((story)=> {
+           if (story.id == id){
+               console.log(story);
+               document.getElementById("mentee_desc1").innerHTML+= story.story;
+>>>>>>> 49a675a371342b01c2836936f37345d54d65469c
              
            } })
          
