@@ -296,6 +296,7 @@ html {
   margin: 0 0 5px 5px;
   border-radius: 10px;
   display: contents;
+  cursor: pointer;
 }
 #upcoming {
   margin-top: -30%;
