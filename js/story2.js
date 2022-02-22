@@ -39,6 +39,12 @@ const urlParams = new URLSearchParams(window.location.search);
                 document.getElementById("mentee_hi1").innerHTML +=hi.hi;
             }
         })
+        story .forEach ((abt)=> {
+            if(abt.id ==id){
+                console.log(abt);
+                document.getElementById("about").innerHTML +=abt.abt;
+            }
+        })
        })
        function pagenavigation_1() {
         window.location.href =
