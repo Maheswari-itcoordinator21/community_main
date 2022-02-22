@@ -1,7 +1,8 @@
 [
 {
 "id":1,
-
+"image":"img/events/your next step.jpg",
+"eventName":"YOUR NEXT STEP",
 "speaker":"Harshavardhan Maran",
 "date":"October 8,2021",
 "speakerImg":"img/team/Harsha.jpg",
@@ -10,7 +11,8 @@
 },
 {
 "id":2,
-
+"image":"img/events/Data Science.jpeg",
+"eventName":"DATA SCIENCE ",
 "speaker":"Sivakumar N",
 "date":"December 12,2021",
 "speakerImg":"img/team/Sivakumar.jpg",
@@ -18,7 +20,8 @@
 },
 {
 "id":3,
-
+"image":"img/events/Github.jpg",
+"eventName":"GITHUB",
 "speaker":"Jaya Roshini",
 "date":"January 22,2022",
 "speakerImg":"img/team/jayaroshini.jpg",
@@ -26,19 +29,21 @@
 },
 {
     "id":4,
-    
+    "image":"img/events/Github.jpg",
+    "eventName":"FRONTED DEVELOPMENT",
     "speaker":"Yogeshwaran",
     "date":"February 05,2022",
     "speakerImg":"img/team/yogeshwaran.jpg",
     "description":"ullamco-est-sit-aliqua-dolor-do-amet-sint-do-amet-sint-do-amet-sintdojhguyhjbdusygdhbvdystfgdvbsh"
     },
     {
-        "id":5,
-       
-        "speaker":"SAITHARUN A",
-        "date":"February 26,2022",
-        "speakerImg":"img/team/yogeshwaran.jpg",
-        "description":"ullamco-est-sit-aliqua-dolor-do-amet-sint-do-amet-sint-do-amet-sintdojhguyhjbdusygdhbvdystfgdvbsh"
-        }
+    "id":5,
+    "image":"img/events/Github.jpg",
+    "eventName":"GITHUB",
+    "speaker":"SAITHARUN",
+    "date":"February 26,2022",
+    "speakerImg":"img/team/yogeshwaran.jpg",
+    "description":"ullamco-est-sit-aliqua-dolor-do-amet-sint-do-amet-sint-do-amet-sintdojhguyhjbdusygdhbvdystfgdvbsh"
+    }
    
 ]
