@@ -1022,7 +1022,7 @@ h3 {
 @media all and (min-width: 1025px) and (max-width: 1200px) {
   #img {
     width: 302px;
-    height: 280px;
+    height: 200px;
     border-radius: 20px;
     margin: auto;
   }
@@ -1044,9 +1044,8 @@ h3 {
   }
   #slider {
     width: 750px;
-    height: 650px;
-    margin-top: 145px;
-    margin: auto;
+    height: 560px;
+    margin: 160px auto;
   }
   .slider-wrapper {
     width: 700px;
@@ -1060,7 +1059,7 @@ h3 {
     margin-left: -80px;
   }
   .Rectangle-185 {
-    height: 445px;
+    height: 325px;
     flex-grow: 0;
     margin: 0 0px 0 10px;
     padding: 15px 19px 15px 15px;
@@ -1072,7 +1071,7 @@ h3 {
 @media all and (min-width: 768px) and (max-width: 1024px) {
   #img {
     width: 302px;
-    height: 280px;
+    height: 200px;
     border-radius: 20px;
     margin: auto;
   }
@@ -1093,9 +1092,8 @@ h3 {
   }
   #slider {
     width: 750px;
-    height: 620px;
-    margin-top: 145px;
-    margin: auto;
+    height: 550px;
+    margin: 160px auto;
   }
   .slider-wrapper {
     width: 700px;
@@ -1115,7 +1113,7 @@ h3 {
     margin-left: -80px;
   }
   .Rectangle-185 {
-    height: 430px;
+    height: 340px;
     flex-grow: 0;
     margin: 0 0px 0 10px;
     padding: 15px 19px 15px 15px;
@@ -1128,10 +1126,9 @@ h3 {
 @media all and (min-width: 601px) and (max-width: 767px) {
   #img {
     width: 300px;
-    height: 280px;
+    height: 200px;
     border-radius: 20px;
-    margin: auto;
-    margin-left: -4px;
+    margin: auto -5.3px;
   }
   .event {
     font-size: 12px;
@@ -1157,7 +1154,7 @@ h3 {
   }
   #slider {
     width: 400px;
-    height: 600px;
+    height: 550px;
     margin-top: 145px;
     margin: auto;
   }
@@ -1172,7 +1169,7 @@ h3 {
     margin-left: -80px;
   }
   .Rectangle-185 {
-    height: 400px;
+    height: 335px;
     flex-grow: 0;
     margin: 0 0px 0 0px;
     padding: 15px 19px 15px 15px;
@@ -1207,7 +1204,7 @@ h3 {
     width: 330px;
     height: 570px;
     margin-top: 15px;
-    margin: auto;
+    margin: 80px auto;
   }
   .slider-wrapper {
     width: 300px;
