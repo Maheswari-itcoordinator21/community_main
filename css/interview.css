@@ -386,9 +386,12 @@
   color: #000;
   margin-left: 15%;
 }
+.whole{
+  margin-left: -3vw;
+}
 
 }
-@media (max-width: 380px) {
+@media (max-width: 385px) {
   .inter-content {
     margin-top: -20px;
     font-size: 3.5vw;
@@ -405,7 +408,7 @@
       height: 300px;
       overflow: hidden;
       padding-top: 25%;
-      margin-left: 15vw;
+      margin-left: 8vw;
   }
   .inter-content{
     height: auto;
@@ -433,6 +436,10 @@
     font-weight: bolder;
     color: #000;
     margin-left: 15%;
+  }
+  .whole{
+    margin-left: 18vw;
+    margin-right: auto;
   }
 }
 
