@@ -8,14 +8,14 @@
 }
 
 @media screen and (max-width: 800px) {
-    .pic {
+     .pic {
         display: none;
     }
     .pic1 {
-        margin-left: 20px;
+        margin-left: 10px;
     }
     .pic2 {
         margin-top: 250px;
-        margin-left: -170px;
+        margin-left: -174px;
     }
 }
