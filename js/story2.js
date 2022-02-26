@@ -40,6 +40,20 @@ const urlParams = new URLSearchParams(window.location.search);
             }
         })
        })
+       function pagenavigation(){
+        story .forEach ((id)=> {
+            console.log(id);
+           if(id==id){
+          
+               pagenavigation_1()
+               
+           }
+           else{
+               pagenavigation_2()
+           }
+        })
+       }
+   
        function pagenavigation_1() {
         window.location.href =
             "https://focused-mayer-701538.netlify.app/page3.html?id=1";
