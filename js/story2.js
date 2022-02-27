@@ -62,7 +62,7 @@ const urlParams = new URLSearchParams(window.location.search);
     
        function pagenavigation_1() {
         window.location.href =
-            "hthttps://focused-mayer-701538.netlify.app/page3.html?id=1";
+            "https://focused-mayer-701538.netlify.app/page3.html?id=1";
     }
         function pagenavigation_2() {
         window.location.href =
