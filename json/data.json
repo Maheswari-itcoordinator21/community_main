@@ -6,8 +6,8 @@
 "speaker":"Harshavardhan Maran",
 "date":"October 8,2021",
 "speakerImg":"img/team/Harsha.jpg",
-"description":" the event is to help out with the career opportunities around Amet-minim-mollit-non-deserunt-ullamco-est-sit-aliqua-dolor-do-amet-sint-do-amet-sint-do-amet-sintdo"
-
+"description":"The motive of this event was to make students get to know about the importance of skills apart from the college syllabus and make students analyze their position in the current commercial race, to make this analysis, our CEO Mr. Harshvardhan Maran had initially facilitated the triangle method to the participants, which was analyzed and created by the Spotknack organization. After half an hour, participants were able to spot were are their pros and cons are actually in. For the next rest of the duration, our Spotknack mentees John Thomas, Arun Prakash, who was skilled in a particular domain, shared their experience and importance after they learned those skills.",
+"link":"https://docs.google.com/forms/d/e/1FAIpQLSfSmo3UyNIaWw_T3bt1tWINfid38K7ARZaK3uFLQ8k8dh09EQ/closedform"
 },
 {
 "id":2,
@@ -16,7 +16,8 @@
 "speaker":"Sivakumar N",
 "date":"December 12,2021",
 "speakerImg":"img/team/Sivakumar.jpg",
-"description":"DATA is the future and the future is now. Our live webinar conducted on 12.12.21 by Sivakumar who is a senior engineer with experience of 4 years, talked about the importance of data science and how it can help an individual in a professional career, and how to crack into the domain of data science. The event started with the basic topic to help novices with what is data with real-time situations. Sources of data, and its types holding human-generated data which is mailing, machine-generated which extracts data from the CCTVs and organizations generated data exporting data from departmental stores.  And he made the clear concept to make the participants understand the concept of big data with the volume of communication with people, variety with respect to the need, velocity of the data gathered to represent the term big data. The next concept was about data format which has two categories of structured and unstructured data. Where structured data conform to schemas like rows and columns and unstructured data doesn’t fit in schemas like social media data and semi-structured data like inspecting the code of the website. Added some gist about batch processing, at which predictions are done with the future data and big data, streaming analysis which is used for false detection, and distributed computing which driver with respect to the bucket, which was invented by Spark. Next, the gist is about the data storage system which holds types like data warehousing, data lakes, unified data platforms. The next 4 interesting varieties of data science are explained with respective technical applications. The resources, platforms to work on and develop oneself and what makes the big data big, and some of the features of it, with the from Kaggle to python & SQL to cloud service to devops tools to data science with extract, storing, cleaning to the theoretical algorithms. And ended with the interesting game called Alphago, a complex game in the world built by machine learning algorithms. It helped in understanding data science and how to get started in this ever-demanding career. His highlighted note: “data-sci isn’t easily opened for freshers but, it’s possible if we develop the skill to the advancement”"
+"description":"DATA is the future and the future is now. Our live webinar conducted on 12.12.21 by Sivakumar who is a senior engineer with experience of 4 years, talked about the importance of data science and how it can help an individual in a professional career, and how to crack into the domain of data science. The event started with the basic topic to help novices with what is data with real-time situations. Sources of data, and its types holding human-generated data which is mailing, machine-generated which extracts data from the CCTVs and organizations generated data exporting data from departmental stores.  And he made the clear concept to make the participants understand the concept of big data with the volume of communication with people, variety with respect to the need, velocity of the data gathered to represent the term big data. The next concept was about data format which has two categories of structured and unstructured data. Where structured data conform to schemas like rows and columns and unstructured data doesn’t fit in schemas like social media data and semi-structured data like inspecting the code of the website. Added some gist about batch processing, at which predictions are done with the future data and big data, streaming analysis which is used for false detection, and distributed computing which driver with respect to the bucket, which was invented by Spark. Next, the gist is about the data storage system which holds types like data warehousing, data lakes, unified data platforms. The next 4 interesting varieties of data science are explained with respective technical applications. The resources, platforms to work on and develop oneself and what makes the big data big, and some of the features of it, with the from Kaggle to python & SQL to cloud service to devops tools to data science with extract, storing, cleaning to the theoretical algorithms. And ended with the interesting game called Alphago, a complex game in the world built by machine learning algorithms. It helped in understanding data science and how to get started in this ever-demanding career. His highlighted note: “data-sci isn’t easily opened for freshers but, it’s possible if we develop the skill to the advancement”",
+"link":"https://docs.google.com/forms/d/e/1FAIpQLSfSmo3UyNIaWw_T3bt1tWINfid38K7ARZaK3uFLQ8k8dh09EQ/closedform"
 },
 {
 "id":3,
@@ -25,25 +26,17 @@
 "speaker":"Jaya Roshini",
 "date":"January 22,2022",
 "speakerImg":"img/team/jayaroshini.jpg",
-"description":"nt-ullamco-est-sit-aliqua-dolor-do-amet-sint-do-amet-sint-do-amet-sintdojjhguyhjbdusygdhbvdystfgdvbsh"
+"description":"GitHub- a goldmine for developers which helps in shaping the software world. This live webinar was hosted by one of our student who is also a member of Google DSC talked about the importance of GitHub and how to make the best use of it. It was a fun and interactive session with games and learning. From knowing what is git and GitHub, installing the Git, creating new repository and extra features and resources to work on using the platform. Also a game called pictionary to be more interesting and interactive. This session gives the overall idea for a novice to get started with GitHub and make it work in their favour.",
+"link":"https://docs.google.com/forms/d/e/1FAIpQLSfSmo3UyNIaWw_T3bt1tWINfid38K7ARZaK3uFLQ8k8dh09EQ/closedform"
 },
 {
     "id":4,
-    "image":"img/events/Github.jpg",
+    "image":"img/events/frontend.jpg",
     "eventName":"FRONTED DEVELOPMENT",
     "speaker":"Yogeshwaran",
     "date":"February 05,2022",
     "speakerImg":"img/team/yogeshwaran.jpg",
-    "description":"ullamco-est-sit-aliqua-dolor-do-amet-sint-do-amet-sint-do-amet-sintdojhguyhjbdusygdhbvdystfgdvbsh"
-    },
-    {
-    "id":5,
-    "image":"img/events/Github.jpg",
-    "eventName":"GITHUB",
-    "speaker":"SAITHARUN",
-    "date":"February 26,2022",
-    "speakerImg":"img/team/yogeshwaran.jpg",
-    "description":"ullamco-est-sit-aliqua-dolor-do-amet-sint-do-amet-sint-do-amet-sintdojhguyhjbdusygdhbvdystfgdvbsh"
-    }
-   
+    "description":"Front-end web development one of the most evolving and most in-demand role of the job. This live webinar hosted by Yogeshwaran who also freelances in this field shares his journey and to make the best out of this career.  With evolution of front-end, use of bootstrap, uses of elements, explaining about how the resources and learning platform, demonstrating with an example by showcasing a website and his journey of how he gets the project by freelancing. This helps in getting started with both front-end development and freelancing.",
+    "link":"https://docs.google.com/forms/d/e/1FAIpQLSfSmo3UyNIaWw_T3bt1tWINfid38K7ARZaK3uFLQ8k8dh09EQ/closedform"
+}
 ]
