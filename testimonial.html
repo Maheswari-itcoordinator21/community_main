@@ -42,7 +42,24 @@
   padding: 20px 20px 62px;
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
   background-color: #fff;
+  display: inline-flex;
+
+
+  
 }
+#moreText {
+display: none;
+
+}
+button{
+    background: none;
+    border:none;
+}
+#textButton{
+    font-weight: bold;
+
+}
+
 @media screen and (max-width: 579px) {
   .Rectangle {
     margin: 10px 103px 50px 0px;
@@ -96,7 +113,7 @@
           </div>
     
     <div>
-        <div class="mar-top-88 d-flex  flex-row flex-wrap">
+        <div class="mar-top-88 d-flex  flex-row flex-wrap ">
             <div class="flex-column padding Rectangle">
                 <iframe width="400" height="200" class="youtube" src="https://www.youtube.com/embed/iXClPj055io" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                <p class="member pt-2"><b> Renu Konda- Machine Learning, Mentee</b>
@@ -119,6 +136,8 @@
                <p class="member pt-2"> <b>KrishnaPriya-Android developer,Mentee</b>
                 <a href="https://www.linkedin.com/in/krishna-priya-2-2-2003"><i class="fa-brands fa-linkedin fa-lg"></i></a></p>               
            </div>
+           <span id="points"></span>
+           <span id="moreText">
            <div class="flex-column padding Rectangle">
             <iframe width="400" height="200" class="youtube" src="https://www.youtube.com/embed/hd5OICw4xHw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                <p class="member pt-2"><b>Shyam- Machine Learning, Mentee</b>
@@ -129,12 +148,18 @@
                <p class="member pt-2"><b>Maheswari- Frontend developer, Mentee</b>
                 <a href="https://www.linkedin.com/in/maheswari-s-8107761b0/"><i class="fa-brands fa-linkedin fa-lg"></i></a></p>
            </div>
+        </span>
            </div>
    </div>
        
-      <div>
-          <p class="text-center"><i class="fa-solid fa-arrow-down"></i><a href="#" class="p-2 text-decoration-none text-black">See more</a></p>
-      </div>
+       
+      <center>
+      <button onclick="toggleText()" id="textButton">
+       
+            ↓ See more   
+    
+	</button>
+</center>
 
 
     
@@ -189,20 +214,51 @@
 
     </footer>
     <div class="build">Build with <img src="img/heart.png"> By <a href="https://spotknack.com/" target="_blank">SpotKnack Talent Community</a></div>
+    
+    <script>
+		function toggleText() {
+
+		
+			
+
+			var showMoreText =
+				document.getElementById("moreText");
+
+			var buttonText =
+				document.getElementById("textButton");
+
+			
+				if (points.style.display === "none") {
+
+
+showMoreText.style.display = "none";
+
+
+points.style.display = "inline";
+
+
+buttonText.innerHTML = " ↓ See more";
+}
+
+else {
+
+
+showMoreText.style.display = "inline";
+
+
+points.style.display = "none";
+
+
+buttonText.innerHTML = " ↑ See less";
+}
+		}
+	</script>
+
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="js/bootstrap.js"></script>
     <script src="js/app.js"></script>
-    <script type="text/javascript">
-        function zforms_open_window(url, height, width) {
-            var leftPos = 0;
-            var topPos = 0;
-            if (screen) {
-                leftPos = (screen.width - width) / 2;
-                topPos = (screen.height - height) / 2;
-                window.open(url, null, 'width=' + width + ',height=' + height + ',left=' + leftPos + ',top=' + topPos + ', toolbar=0, location=0, status=1, scrollbars=1, resizable=1');
-            }
-        }
+   
     </script>
     <script type="text/javascript">
         var $zoho = $zoho || {};
@@ -225,7 +281,6 @@
 </body>
 
 </html>
-
 
 
 
