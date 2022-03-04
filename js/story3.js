@@ -45,10 +45,10 @@ const urlParams = new URLSearchParams(window.location.search);
    
       function pagenavigation_1() {
        window.location.href =
-           "https://focused-mayer-701538.netlify.app/story_page2.html?id=1";
+           "https://focused-mayer-701538.netlify.app/mentee_story-home.html?id=1";
    }
        function pagenavigation_2() {
        window.location.href =
-           "https://focused-mayer-701538.netlify.app/story_page2.html?id=2";
+           "https://focused-mayer-701538.netlify.app/mentee_story-home.html?id=2";
    }
 }

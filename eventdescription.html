@@ -82,7 +82,7 @@
           
            </div></div>
            <div>
-       <center>  <button class="Rectangle-183"><span class="Apply-for-the-event">Apply for the Events</span></button></center></div>
+       <center>  <button class="Rectangle-183"><span class="Apply-for-the-event" id="link">FeedBack for Event</span></button></center></div>
 <!--=====footer=====-->
   
 <footer>
@@ -119,7 +119,7 @@
             <div class="col res">
                 <p class="pb-1">Story Board</p>
               
-                <h6><a href="story_page1.html">Impact Stories</a></h6>
+                <h6><a href="stories_list.html">Impact Stories</a></h6>
                 <h6><a href="testimonial.html">Testimonials</a></h6>
                 <h6><a href="interview.html">Our Impactors</a></h6>
 
@@ -201,6 +201,12 @@
             if(speakerImg.id ==id){
                 console.log(speakerImg);
                 document.getElementById("photo").src =speakerImg.speakerImg;
+            }
+        })
+        data .forEach ((link)=>{
+            if(link.id ==id){
+                console.log(link);
+                document.getElementById("link").innerHTML =link.link;
             }
         })
        })
