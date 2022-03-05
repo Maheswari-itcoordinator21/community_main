@@ -1,9 +1,16 @@
+<<<<<<< HEAD
 
 
 .pic {
     margin: auto;
     display: block;
      cursor: pointer;
+=======
+.pic {
+    margin: auto;
+    display: block;
+    cursor: pointer;
+>>>>>>> f9b52dd6be2747642a0a5c85a9ea5583216f4863
     
 }
 

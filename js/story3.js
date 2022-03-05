@@ -9,10 +9,10 @@ const urlParams = new URLSearchParams(window.location.search);
    
     .then((story)=>{
         console.log(story);
-       story .forEach ((desc)=> {
-           if (desc.id == id){
-               console.log(desc);
-               document.getElementById("mentee_desc1").innerHTML+= desc.desc;
+       story .forEach ((story)=> {
+           if (story.id == id){
+               console.log(story);
+               document.getElementById("mentee_desc1").innerHTML+= story.story;
              
            } })
          
@@ -22,22 +22,33 @@ const urlParams = new URLSearchParams(window.location.search);
                document.getElementById("mentee_img1").src = image.image;
            }
         })
-        // story .forEach ((linked)=> {
-        //     if (linked.id == id){
-        //         console.log(linked);
-        //         document.getElementById("mentee_link1").src= linked.linked;
-        //     }
-        //  })
-        // story .forEach ((design)=> {
-        //     if(design.id ==id){
-        //         console.log(design);
-        //         document.getElementById("mentee_dest1").innerHTML +=design.design;
-        //     }
-        // })
-        // story .forEach ((hi)=> {
-        //     if(hi.id ==id){
-        //         console.log(hi);
-        //         document.getElementById("mentee_hi1").innerHTML +=hi.hi;
-        //     }
-        // })
+        story .forEach ((id)=> {
+            console.log(id);
+           
+           if(id==0){
+          page();
+               
+           }
+          
+        })  
        })
+       function page(){
+  
+        if(id==1){
+         pagenavigation_1();
+              
+          }
+          else if(id==2){
+           pagenavigation_2();
+          }
+      
+   
+      function pagenavigation_1() {
+       window.location.href =
+           "https://focused-mayer-701538.netlify.app/mentee_story-home.html?id=1";
+   }
+       function pagenavigation_2() {
+       window.location.href =
+           "https://focused-mayer-701538.netlify.app/mentee_story-home.html?id=2";
+   }
+}

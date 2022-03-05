@@ -39,4 +39,33 @@ const urlParams = new URLSearchParams(window.location.search);
                 document.getElementById("mentee_hi1").innerHTML +=hi.hi;
             }
         })
-       })
+        story .forEach ((id)=> {
+            console.log(id);
+           
+           if(id==0){
+          pagenavigation();
+               
+           }
+          
+        })  
+    })
+    function pagenavigation(){
+  
+         if(id==1){
+          pagenavigation_1();
+               
+           }
+           else if(id==2){
+            pagenavigation_2();
+           }
+       
+    
+       function pagenavigation_1() {
+        window.location.href =
+            "https://focused-mayer-701538.netlify.app/mentee_story-about.html?id=1";
+    }
+        function pagenavigation_2() {
+        window.location.href =
+            "https://focused-mayer-701538.netlify.app/mentee_story-about.html?id=2";
+    }
+}
