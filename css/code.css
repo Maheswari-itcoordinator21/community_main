@@ -56,6 +56,7 @@ ul {
   }
   .container {
     margin-top: 20px;
+    max-width: fit-content;
   }
   .head {
     font-size: 8vw;
@@ -66,8 +67,11 @@ ul {
   .code-points h5 {
     font-size: 3.5vw;
   }
-  .code-points p {
-    font-size: 2.5vw;
+  .code-points ul {
+    word-wrap: break-word;
+  }
+  .code-points ul {
+    font-size: 2.7vw;
   }
 }
 
