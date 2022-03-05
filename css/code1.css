@@ -67,15 +67,11 @@ ul {
   .code-points h5 {
     font-size: 3.5vw;
   }
-  .code-points p {
-    font-size: 2.5vw;
-    margin-left: 15%;
+  .code-points ul {
+    word-wrap: break-word;
   }
-  .code-points li {
-    margin-left: 15%;
-  }
-  .code-points h5 {
-    margin-left: 12%;
+  .code-points ul {
+    font-size: 3vw;
   }
 }
 

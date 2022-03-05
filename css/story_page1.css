@@ -1,28 +1,18 @@
-<<<<<<< HEAD
-
-
 .pic {
-    margin: auto;
-    display: block;
-     cursor: pointer;
-=======
-.pic {
-    margin: auto;
-    display: block;
-    cursor: pointer;
->>>>>>> f9b52dd6be2747642a0a5c85a9ea5583216f4863
-    
+  margin: auto;
+  display: block;
+  cursor: pointer;
 }
 
 @media screen and (max-width: 800px) {
-     .pic {
-        display: none;
-    }
-    .pic1 {
-        margin-left: 10px;
-    }
-    .pic2 {
-        margin-top: 250px;
-        margin-left: -174px;
-    }
+  .pic {
+    display: none;
+  }
+  .pic1 {
+    margin-left: 10px;
+  }
+  .pic2 {
+    margin-top: 250px;
+    margin-left: -174px;
+  }
 }

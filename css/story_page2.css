@@ -7,17 +7,14 @@
   margin-top: 70px;
 }
 
-.hom1{
-font-weight: bolder;
-color: rgb(0, 0, 0);
-
-
-
+.hom1 {
+  font-weight: bolder;
+  color: rgb(0, 0, 0);
 }
-.hom2{
+.hom2 {
   opacity: 0.6;
-} 
-
+  font-weight: bolder;
+}
 
 .pic {
   margin-top: -250px;
@@ -28,8 +25,8 @@ color: rgb(0, 0, 0);
   border: solid 2px #c9fd6a;
 }
 
- .hom {
-   cursor: pointer;
+.hom {
+  cursor: pointer;
   margin-left: 1000px;
   margin-top: -200px;
   font-size: 18px;
@@ -40,7 +37,7 @@ color: rgb(0, 0, 0);
   font-style: normal;
   line-height: normal;
   letter-spacing: 0.6px;
-} 
+}
 
 .icon-color {
   color: #c9fd6a;
