@@ -1,6 +1,6 @@
 [{
         "id": 1,
-        "image": "img/members/ramkishore.jfif",
+        "image": "https://dzaux9r6i7efs.cloudfront.net/community/stories/ramkishore.jfif",
         "name": "Ram Kishore",
         "design": "Frontend Developer",
         "hi": "Hi there , i am",
@@ -10,7 +10,7 @@
     },
     {
         "id": 2,
-        "image": "img/members/maithreyan.jfif",
+        "image": "https://dzaux9r6i7efs.cloudfront.net/community/team/Maithreyan.jpeg",
         "name": "Maithreyan",
         "design": "Frontend Developer",
         "hi": "Hi there , i am",
